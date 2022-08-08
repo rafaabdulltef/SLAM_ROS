@@ -8,5 +8,7 @@ How is the robot moved from one point to another :
 -	Sensing 
 -	Map
 -	Path 
-to see the file completely and in order, please download it 
+
+
+- to see the file completely and in order, please download it 
 thenk you 
